@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ADHD java"
+rootProject.name = "ADHD Java"
 include(":app")
- 
